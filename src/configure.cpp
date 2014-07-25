@@ -4,7 +4,7 @@ namespace SquareGame
 {
 	CConfigure::CConfigure()
 	{
-		;
+		std::cout<<"Hello Game"<<std::endl;
 	}
 	CConfigure::~CConfigure()
 	{
