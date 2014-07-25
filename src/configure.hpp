@@ -6,7 +6,9 @@ namespace SquareGame
 {
 	class CConfigure
 	{
-
+	public:
+		CConfigure();
+		~CConfigure();
 	};
 }
 #endif
